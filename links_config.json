@@ -1,0 +1,22 @@
+[
+    {
+        "name": "线下报表",
+        "url": "https://www.ljcds.com.cn/"
+    },
+    {
+        "name": "线上报表",
+        "url": "https://rp.ljcds.cn/"
+    },
+    {
+        "name": "泛微 OA 系统",
+        "url": "http://118.190.216.42:8088/wui/index.html#/?logintype=1&_key=90ufk8"
+    },
+    {
+        "name": "流向系统",
+        "url": "https://flowsys.ljcds.com.cn/flow/#/index/url"
+    },
+    {
+        "name": "流向任务",
+        "url": "https://flowsysjob.ljcds.com.cn/job-admin/jobinfo"
+    }
+]
